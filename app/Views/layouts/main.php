@@ -1,49 +1,38 @@
-<!doctype html>
-
+<!DOCTYPE html>
+<html lang="id">
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title> Maldin17App </title>
-
-    <!-- Bootstrap CSS Lokal -->
-    <link href="<?= base_url('assets/css/bootstrap.min.css') ?>" rel="stylesheet">
-    <link href="<?= base_url('assets/bootstrap-icons-1.13.1/bootstrap-icons.css') ?>" rel="stylesheet">
-
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><?= $title ?? 'Tim466 App' ?></title>
+    <!-- Library Animasi AOS -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <!-- Font Google (Inter) untuk tampilan modern -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
+    
     <style>
-        body {
-            font-family: "SF Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
-            display: flex;
-            min-height: 100vh;
-            overflow-x: auto;
-        }
-
-        .sidebar {
-            width: 150px;
-            background-color: #fffbd5ff;
-            position: relative;
-        }
-
-        .content {
-            flex-grow: 1;
-            padding: 15px;
-            background-color: #f8f9fa;
-        }
+        body { margin: 0; font-family: 'Inter', sans-serif; background-color: #f8fafc; color: #1e293b; }
+        a { transition: all 0.3s ease; }
+        a:hover { opacity: 0.8; }
     </style>
 </head>
-
 <body>
-    <!-- Sidebar -->
-    <div id="sidebar" class="sidebar">
-        <?php include(APPPATH . 'Views/layouts/menu.php'); ?>
-    </div>
-
-    <!-- Konten Utama -->
-    <div class="content">
+    <?= $this->include('layouts/menu') ?>
+    
+    <main style="min-height: 80vh;">
         <?= $this->renderSection('content') ?>
-    </div>
+    </main>
 
-    <!-- Bootstrap JS Lokal -->
-    <script src="<?= base_url('assets/js/bootstrap.bundle.min.js') ?>"></script>
+    <footer style="text-align: center; padding: 20px; color: #64748b; font-size: 14px; border-top: 1px solid #e2e8f0; margin-top: 40px;">
+        &copy; <?= date('Y') ?> Tim466 App - Jurnal Kerja PKL.
+    </footer>
+
+    <!-- Script Animasi AOS -->
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+        AOS.init({
+            duration: 800, // Durasi animasi (milidetik)
+            once: true,    // Animasi hanya jalan sekali
+        });
+    </script>
 </body>
-
 </html>

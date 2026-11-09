@@ -1,0 +1,1717 @@
+DEBUG - 2026-11-07 02:00:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:00:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-11-07 02:00:32 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "dashboard.php"
+[Method: GET, Route: dashboard]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('dashboard', [], true)
+ 3 APPPATH\Config\Routes.php(23): view('dashboard')
+ 4 SYSTEMPATH\CodeIgniter.php(875): CodeIgniter\Router\RouteCollection->{closure}()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-11-07 02:00:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-11-07 02:00:40 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "dashboard.php"
+[Method: GET, Route: dashboard]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('dashboard', [], true)
+ 3 APPPATH\Config\Routes.php(23): view('dashboard')
+ 4 SYSTEMPATH\CodeIgniter.php(875): CodeIgniter\Router\RouteCollection->{closure}()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-11-07 02:00:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-11-07 02:00:52 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "dashboard.php"
+[Method: GET, Route: dashboard]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('dashboard', [], true)
+ 3 APPPATH\Config\Routes.php(23): view('dashboard')
+ 4 SYSTEMPATH\CodeIgniter.php(875): CodeIgniter\Router\RouteCollection->{closure}()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 02:02:42 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "dashboard.php"
+[Method: GET, Route: dashboard]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('dashboard', [], true)
+ 3 APPPATH\Config\Routes.php(23): view('dashboard')
+ 4 SYSTEMPATH\CodeIgniter.php(875): CodeIgniter\Router\RouteCollection->{closure}()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 02:02:43 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "dashboard.php"
+[Method: GET, Route: dashboard]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('dashboard', [], true)
+ 3 APPPATH\Config\Routes.php(23): view('dashboard')
+ 4 SYSTEMPATH\CodeIgniter.php(875): CodeIgniter\Router\RouteCollection->{closure}()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 02:02:45 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "dashboard.php"
+[Method: GET, Route: dashboard]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('dashboard', [], true)
+ 3 APPPATH\Config\Routes.php(23): view('dashboard')
+ 4 SYSTEMPATH\CodeIgniter.php(875): CodeIgniter\Router\RouteCollection->{closure}()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 02:02:46 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "dashboard.php"
+[Method: GET, Route: dashboard]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('dashboard', [], true)
+ 3 APPPATH\Config\Routes.php(23): view('dashboard')
+ 4 SYSTEMPATH\CodeIgniter.php(875): CodeIgniter\Router\RouteCollection->{closure}()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 02:02:46 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "dashboard.php"
+[Method: GET, Route: dashboard]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('dashboard', [], true)
+ 3 APPPATH\Config\Routes.php(23): view('dashboard')
+ 4 SYSTEMPATH\CodeIgniter.php(875): CodeIgniter\Router\RouteCollection->{closure}()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 02:06:23 --> ParseError: syntax error, unexpected token "/", expecting end of file
+[Method: GET, Route: dashboard]
+in APPPATH\Config\Routes.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(821): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 02:06:26 --> ParseError: syntax error, unexpected token "/", expecting end of file
+[Method: GET, Route: dashboard]
+in APPPATH\Config\Routes.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(821): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-11-07 02:11:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:11:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:11:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:11:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:11:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:11:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:13:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:13:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:13:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:13:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:13:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:13:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:14:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:14:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:14:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:14:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:14:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:14:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:14:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:14:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:14:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:14:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:14:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:14:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:15:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:15:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:15:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:15:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:15:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:19:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:19:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:20:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:20:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:20:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:20:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:20:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:20:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:23:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:23:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:23:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:23:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:23:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:27:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:27:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:27:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:27:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:27:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:28:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:29:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:29:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:29:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:29:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:29:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:29:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:37:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:37:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:38:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:39:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:39:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:39:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:43:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:43:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:48:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:48:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:48:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:48:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:48:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:48:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:48:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:48:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:49:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:49:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:49:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:49:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:50:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:50:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:50:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:51:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:51:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:51:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:51:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:51:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:51:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:51:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:53:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:53:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:53:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:53:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:53:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:53:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:53:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:53:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:53:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:53:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:54:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 02:54:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:17:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:17:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:17:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:17:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:17:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:20:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:20:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:20:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:20:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:24:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:26:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:26:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:26:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:26:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:27:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:27:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:27:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:27:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:27:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:27:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:27:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:27:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:27:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:27:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:28:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:28:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:28:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:29:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:29:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:33:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:33:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:33:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:33:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-11-07 03:35:01 --> ErrorException: Undefined variable $intRole
+[Method: GET, Route: /]
+in APPPATH\Config\Routes.php on line 25.
+ 1 APPPATH\Config\Routes.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $intRole', 'C:\\xampp\\htdocs\\PKL2027\\app\\Config\\Routes.php', 25)
+ 2 SYSTEMPATH\Router\RouteCollection.php(339): require('C:\\xampp\\htdocs\\PKL2027\\app\\Config\\Routes.php')
+ 3 SYSTEMPATH\CodeIgniter.php(821): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 4 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 03:36:10 --> ErrorException: Undefined variable $allRole
+[Method: GET, Route: /]
+in APPPATH\Config\Routes.php on line 25.
+ 1 APPPATH\Config\Routes.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $allRole', 'C:\\xampp\\htdocs\\PKL2027\\app\\Config\\Routes.php', 25)
+ 2 SYSTEMPATH\Router\RouteCollection.php(339): require('C:\\xampp\\htdocs\\PKL2027\\app\\Config\\Routes.php')
+ 3 SYSTEMPATH\CodeIgniter.php(821): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 4 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 03:36:11 --> ErrorException: Undefined variable $allRole
+[Method: GET, Route: /]
+in APPPATH\Config\Routes.php on line 25.
+ 1 APPPATH\Config\Routes.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $allRole', 'C:\\xampp\\htdocs\\PKL2027\\app\\Config\\Routes.php', 25)
+ 2 SYSTEMPATH\Router\RouteCollection.php(339): require('C:\\xampp\\htdocs\\PKL2027\\app\\Config\\Routes.php')
+ 3 SYSTEMPATH\CodeIgniter.php(821): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 4 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 03:36:12 --> ErrorException: Undefined variable $allRole
+[Method: GET, Route: /]
+in APPPATH\Config\Routes.php on line 25.
+ 1 APPPATH\Config\Routes.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $allRole', 'C:\\xampp\\htdocs\\PKL2027\\app\\Config\\Routes.php', 25)
+ 2 SYSTEMPATH\Router\RouteCollection.php(339): require('C:\\xampp\\htdocs\\PKL2027\\app\\Config\\Routes.php')
+ 3 SYSTEMPATH\CodeIgniter.php(821): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 4 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-11-07 03:38:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-11-07 03:38:04 --> CodeIgniter\Filters\Exceptions\FilterException: "role" filter must have a matching alias defined.
+[Method: GET, Route: users]
+in SYSTEMPATH\Filters\Filters.php on line 590.
+ 1 SYSTEMPATH\Filters\Filters.php(590): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('role')
+ 2 SYSTEMPATH\Filters\Filters.php(641): CodeIgniter\Filters\Filters->enableFilter('role:admin,petugas', 'before')
+ 3 SYSTEMPATH\CodeIgniter.php(467): CodeIgniter\Filters\Filters->enableFilters([...], 'before')
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-11-07 03:39:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:39:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:39:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-11-07 03:39:34 --> CodeIgniter\Filters\Exceptions\FilterException: "role" filter must have a matching alias defined.
+[Method: GET, Route: users]
+in SYSTEMPATH\Filters\Filters.php on line 590.
+ 1 SYSTEMPATH\Filters\Filters.php(590): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('role')
+ 2 SYSTEMPATH\Filters\Filters.php(641): CodeIgniter\Filters\Filters->enableFilter('role:admin,petugas', 'before')
+ 3 SYSTEMPATH\CodeIgniter.php(467): CodeIgniter\Filters\Filters->enableFilters([...], 'before')
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-11-07 03:42:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:42:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:46:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:46:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:46:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:46:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:46:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:46:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:46:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:46:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:46:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:46:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:46:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:46:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:47:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:47:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:47:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:47:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:47:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:47:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:48:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:48:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:48:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:48:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:48:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:48:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:48:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:51:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:51:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:51:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:51:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:51:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:52:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:52:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:52:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:52:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:52:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:52:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:52:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:52:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:52:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:52:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:52:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:52:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:52:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:52:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:52:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:52:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:53:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:53:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:53:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:53:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:53:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:54:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:54:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:54:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:58:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 03:58:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-11-07 03:58:13 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-11-07 03:58:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-11-07 03:58:15 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-11-07 03:58:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-11-07 03:58:16 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-11-07 03:58:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-11-07 03:58:17 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-11-07 03:58:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-11-07 03:58:18 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 03:58:21 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 03:58:22 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-11-07 03:58:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-11-07 03:58:24 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 03:58:26 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-11-07 03:58:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-11-07 03:58:27 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 03:58:28 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 03:58:29 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 03:58:31 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 03:58:34 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 03:58:36 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 03:58:38 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 03:58:40 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 03:58:42 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 03:58:44 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 03:58:46 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 03:58:48 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 03:58:50 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 03:58:52 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 03:58:54 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 03:58:56 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 03:58:58 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 03:59:00 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 03:59:02 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 03:59:04 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 03:59:06 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 03:59:08 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 03:59:10 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 03:59:12 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 03:59:14 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 03:59:16 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 03:59:18 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 03:59:20 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 03:59:22 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 03:59:24 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 03:59:26 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 03:59:28 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-11-07 03:59:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-11-07 03:59:28 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-11-07 03:59:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-11-07 03:59:30 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-11-07 03:59:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-11-07 03:59:31 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-11-07 03:59:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-11-07 03:59:32 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-11-07 03:59:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-11-07 03:59:33 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 03:59:36 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 03:59:37 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 03:59:40 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 03:59:42 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 03:59:44 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 03:59:46 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 03:59:48 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 03:59:50 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 03:59:52 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 03:59:54 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 03:59:56 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 03:59:58 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:00:00 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:00:02 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:00:04 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:00:06 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:00:08 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:00:10 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:00:12 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:00:14 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:00:16 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:00:18 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:00:20 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:00:22 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:00:24 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:00:26 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:00:28 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:00:30 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:00:32 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:00:34 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:00:36 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:00:38 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:00:54 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:01:14 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:01:15 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-11-07 04:01:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-11-07 04:01:15 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:01:17 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:01:20 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:01:22 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:01:24 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:01:26 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:01:28 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:01:30 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:01:32 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:01:34 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:01:36 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:01:38 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:01:40 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:01:42 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:01:44 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:01:46 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:01:48 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:01:50 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:01:52 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:01:54 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:01:56 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:01:58 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:02:00 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:02:02 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:02:04 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:02:06 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:02:08 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:02:10 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:02:12 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:02:14 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:02:16 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-11-07 04:02:18 --> ErrorException: Undefined variable $reply_data
+[Method: GET, Route: chat/fetch]
+in APPPATH\Controllers\Chat.php on line 77.
+ 1 APPPATH\Controllers\Chat.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reply_data', 'C:\\xampp\\htdocs\\PKL2027\\app\\Controllers\\Chat.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Chat->fetch()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Chat))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-11-07 04:02:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:03:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:04:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:04:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:04:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:04:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:07:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:08:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:08:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:08:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:08:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:08:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:10:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:12:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:14:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:17:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:19:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:27:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:27:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:27:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-11-07 04:27:47 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "biodata/wilda.php"
+[Method: GET, Route: tim/wilda]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('biodata/wilda.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('biodata/wilda', [], true)
+ 3 APPPATH\Controllers\Biodata.php(16): view('biodata/wilda')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Biodata->wilda()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Biodata))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-11-07 04:29:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:29:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:30:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:30:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:30:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:30:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:31:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:31:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:31:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:31:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:31:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:31:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:31:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:34:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:34:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:37:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:37:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:38:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:39:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:39:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:39:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:39:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:40:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-11-07 04:40:43 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "users/create.php"
+[Method: GET, Route: users/create]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('users/create.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('users/create', [], true)
+ 3 APPPATH\Controllers\Users.php(26): view('users/create')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Users->create()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-11-07 04:40:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:40:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:40:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:41:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:41:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:41:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:41:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:42:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:44:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:44:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:44:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:44:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:44:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:44:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:44:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:44:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:45:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:47:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:47:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:48:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:48:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:49:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:49:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:49:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:49:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:50:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:50:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:50:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:50:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:50:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:50:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:51:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:51:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:51:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:51:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:51:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:51:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:51:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 04:55:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:12:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:12:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:13:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-11-07 05:13:28 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "biodata/nandra.php"
+[Method: GET, Route: tim/nandra]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('biodata/nandra.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('biodata/nandra', [], true)
+ 3 APPPATH\Controllers\Biodata.php(31): view('biodata/nandra')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Biodata->nandra()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Biodata))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-11-07 05:14:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:14:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:15:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:17:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:19:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:19:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:20:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:20:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:21:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:21:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:22:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:22:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:23:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:23:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-11-07 05:23:14 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "biodata/arya.php"
+[Method: GET, Route: tim/arya]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('biodata/arya.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('biodata/arya', [], true)
+ 3 APPPATH\Controllers\Biodata.php(26): view('biodata/arya')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Biodata->arya()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Biodata))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-11-07 05:24:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:24:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:25:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:25:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:26:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:26:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:31:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:31:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:31:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:31:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:31:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:31:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:31:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:31:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:31:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:31:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:32:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:32:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:32:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:32:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:34:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:34:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:34:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:34:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:34:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:34:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:35:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:36:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:37:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:37:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:37:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:38:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:38:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:39:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:39:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:40:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:41:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:41:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:41:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:42:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:42:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:43:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:45:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:45:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:46:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:46:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:46:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:47:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:47:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:47:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:47:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:47:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:47:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:49:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-11-07 05:49:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
