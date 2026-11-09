@@ -23,7 +23,7 @@ class Users extends BaseController
     public function create()
     {
         // Memanggil view users/create.php
-        return view('users/create');
+        return view('users/index');
     }
 
     // Menyimpan data user baru
